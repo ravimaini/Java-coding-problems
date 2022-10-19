@@ -1,0 +1,28 @@
+DF Encapsulation/ Abstraction
+The process of combing data in into single unit is called Encapsulation.
+We perform encapsulation by declaring member variable private access modifier.
+We provide setter and getter to get and set the value.
+
+// Abstraction
+The process of hiding unnecessary implementation and the
+process of showing useful data to user is called Abstraction
+
+Various way to achieve
+Abstract  classes, Interface
+
+
+// Inheritance
+it is a relation between entity classes , it will bring properties and behaviour
+from one entity to another entity.
+Code Foreseeability comes in picture when we use inheritance
+By using extends keyword inheritance relationship.
+
+// Exception
+Normal statement
+Critical Statement
+
+
+
+
+
+
